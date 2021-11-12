@@ -1,10 +1,10 @@
-# XMARTY_MUSIC
-<h2 align="centre">🎵 xᴍᴀʀᴛʏ ᴍᴜꜱɪᴄ ʙᴏᴛ 🎵</h2>
+# Lextra_Suppor
+<h2 align="centre">🎵Lextra ᴍᴜꜱɪᴄ ʙᴏᴛ 🎵</h2>
 
 ### ᴀ ʙᴏᴛ ᴛʜᴀᴛ ᴄᴀɴ ᴘʟᴀʏ ᴍᴜꜱɪᴄ ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴏɴ ᴠᴏɪᴄᴇ ᴄᴀʟʟ 
 
 <p align="center">
-  <img src="https://telegra.ph/file/3aa55e7efe0fabf05da4e.jpg">
+  <img src=https://te.legra.ph/file/046272c74f03ee83cc313.jpg
 </p>
 
 <h3>Requirements 📝</h3>
