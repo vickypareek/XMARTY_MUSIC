@@ -29,15 +29,15 @@
 
 ### ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ</h4>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/S780821/XMARTY_MUSIC)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/S780821/Lextra_Suppor)
 ### ᴅᴇᴘʟᴏʏ ᴛᴏ ʀᴀɪʟᴡᴀʏ
 
-[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/S780821/Xmarty_Music&envs=API_ID,API_HASH,BOT_TOKEN,SESSION_NAME,SUDO_USERS)
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/S780821/Lextra_Suppor&envs=API_ID,API_HASH,BOT_TOKEN,SESSION_NAME,SUDO_USERS)
 
 ### ᴘʏʀᴏɢʀᴀᴍ ꜱᴇꜱꜱɪᴏɴ
 Use [Repl Link](https://replit.com/@S780821/PyrogramSession) to get pyrogram string session
 
 # CREDITS
-- [Xmarty Salim](https://github.com/S780821) for Creating Repo
+- [Lextra virat](https://github.com/S780821) for Creating Repo
 
-# .•♫•♬• ᴛʜᴀɴᴋs ғᴏʀ ᴜsɪɴɢ xᴍᴀʀᴛɪᴇs ʀᴇᴘᴏ •♫•♬•
+# .•♫•♬• ᴛʜᴀɴᴋs ғᴏʀ ᴜsɪɴɢ Lextra ʀᴇᴘᴏ •♫•♬•
